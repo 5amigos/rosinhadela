@@ -1,0 +1,27 @@
+
+@font-face {
+  font-family: "Painter";
+  src: url("/assets/fonts/Painter_PERSONAL_USE_ONLY.ttf");
+}
+
+.header {
+	width:100%;
+	text-align:center;
+}
+
+.header-font {
+	font-family: "Painter";		
+	font-size: 36px;
+}
+
+.header-first-border {
+	width:100%;
+	height:4px;
+	background-color:black;
+}
+
+.header-second-border {
+	width:100%;
+	height:5px;
+	background-color:#FF96D4;
+}
