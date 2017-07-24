@@ -7,5 +7,4 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.navbar.css']
 })
 export class NavbarComponent {
-  title = 'Rosinha de Lã';
 }
